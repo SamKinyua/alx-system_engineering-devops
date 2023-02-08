@@ -1,2 +1,2 @@
 #!/bi/bash 
-ls -amvp
+ls -amp | sort -d 
